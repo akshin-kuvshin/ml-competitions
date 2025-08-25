@@ -37,3 +37,5 @@ date,time_of_day,SYS,DIA,pulse,irregular_heartbeat,danger_level
 2025-08-23,morning,138,73,65,0,3
 2025-08-23,evening,140,58,65,0,4
 2025-08-24,morning,120,63,63,0,2
+2025-08-25,morning,134,74,84,0,3
+2025-08-25,evening,138,76,73,0,3
